@@ -1,1 +1,0 @@
-# spin-loading-animation
